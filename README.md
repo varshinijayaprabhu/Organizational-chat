@@ -1,4 +1,9 @@
 # Organizational Chat Platform
+
+## Live Demo
+
+Experience the **Organization Chat** platform live at: **[https://www.organizationalc.byethost7.com](https://www.organizationalc.byethost7.com)**
+
 ### Key Highlights
 
 - **Advanced Spam Classifier** - 98% accuracy in filtering spam messages for a clean chat environment
@@ -394,11 +399,7 @@ The platform is fully responsive and optimized for:
 - **Desktop** (1024px+)
 - **Large Screens** (1440px+)
 
-## Live Demo
-
-Experience the **Organization Chat** platform live at: **[https://www.organizationalc.byethost7.com](https://www.organizationalc.byethost7.com)**
-
-### Platform Objectives & Scope
+## Platform Objectives & Scope
 
 #### Core Objectives
 1. **Enhanced Connectivity** - Foster seamless communication and collaboration among team members
