@@ -1,5 +1,17 @@
 # Organizational Chat Platform
 
+<img width="581" height="309" alt="Picture1" src="https://github.com/user-attachments/assets/07b33199-838b-4e83-8673-4a4f63b364c8" />
+<img width="594" height="315" alt="Picture2" src="https://github.com/user-attachments/assets/273cd46c-b10d-4dde-89fd-1f70ab9e0d25" />
+<img width="602" height="320" alt="Picture3" src="https://github.com/user-attachments/assets/98082c78-0d80-4302-ae4a-9262e4561602" />
+<img width="602" height="320" alt="Picture4" src="https://github.com/user-attachments/assets/fafba287-6d28-42dc-8344-827ea98b0317" />
+<img width="602" height="320" alt="Picture5" src="https://github.com/user-attachments/assets/9b7d2fe7-6292-4c26-9b72-1e622bfb9062" />
+<img width="602" height="320" alt="Picture6" src="https://github.com/user-attachments/assets/e16ce2f6-cbf8-490b-a04d-c77f88821960" />
+<img width="602" height="320" alt="Picture7" src="https://github.com/user-attachments/assets/1b5ee8dc-4d8e-4a31-a884-3e6d1efcfd2f" />
+<img width="602" height="313" alt="Picture8" src="https://github.com/user-attachments/assets/7cfeaf17-7efe-49ff-a7d6-d0e6f90759eb" />
+<img width="602" height="320" alt="Picture9" src="https://github.com/user-attachments/assets/d8a71dc6-a608-4375-b1cd-85604372528f" />
+<img width="602" height="327" alt="Picture10" src="https://github.com/user-attachments/assets/9fcf384f-563a-4f5a-9d8e-2d9efc5e87de" />
+
+
 ## Live Demo
 
 Experience the **Organization Chat** platform live at: **[https://www.organizationalc.byethost7.com](https://www.organizationalc.byethost7.com)**
