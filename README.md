@@ -511,5 +511,36 @@ Found a bug? Please open an issue on GitHub with:
 [![GitHub stars](https://img.shields.io/github/stars/Vivektheprogrammer/Organizational-chat-?style=social)](https://github.com/Vivektheprogrammer/Organizational-chat-/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Vivektheprogrammer/Organizational-chat-?style=social)](https://github.com/Vivektheprogrammer/Organizational-chat-/network/members)
 
+
+## SCREENSHOT
+
+<img width="602" height="320" alt="Picture4" src="https://github.com/user-attachments/assets/940543d7-1fcd-4e84-ac4c-02391983a6b4" />
+
+
+<img width="602" height="320" alt="Picture1" src="https://github.com/user-attachments/assets/35256d7c-e992-4a6b-9c28-2921b84b7f84" />
+
+
+<img width="602" height="320" alt="Picture2" src="https://github.com/user-attachments/assets/d8181be7-eb8d-43b6-892a-2cc7e56d3905" />
+
+
+<img width="602" height="320" alt="Picture3" src="https://github.com/user-attachments/assets/c655a7fd-f4ef-4590-abc9-7ec8c33de52e" />
+
+
+<img width="602" height="320" alt="Picture5" src="https://github.com/user-attachments/assets/c05acd8a-f1a1-42cc-863c-5d143b29f337" />
+
+
+<img width="602" height="320" alt="Picture6" src="https://github.com/user-attachments/assets/21a97550-0834-4d7e-8389-a4b7ff667cff" />
+
+
+<img width="602" height="320" alt="Picture7" src="https://github.com/user-attachments/assets/a0876f60-12df-4c79-8ebd-957cb0eb8c32" />
+
+
+<img width="602" height="320" alt="Picture8" src="https://github.com/user-attachments/assets/d9c35cda-30d9-4eff-b18b-1069136e3151" />
+
+
+<img width="602" height="320" alt="Picture9" src="https://github.com/user-attachments/assets/0d03ad44-a755-4495-b427-0faeccb3426a" />
+
+
+<img width="602" height="320" alt="Picture10" src="https://github.com/user-attachments/assets/41d11243-9447-4c52-bbc6-00feb82f86ac" />
 </div>
 
